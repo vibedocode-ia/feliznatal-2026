@@ -1,0 +1,8 @@
+node_modules
+.next
+.git
+.agents
+2025
+PRD
+*.log
+.env.local
